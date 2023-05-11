@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Soy la el container que alojara la aplicacion de victor :v
+          Soy la el container que alojara la aplicacion de victor :b
         </p>
         <a
           className="App-link"
