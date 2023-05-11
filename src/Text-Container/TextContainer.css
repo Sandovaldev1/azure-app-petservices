@@ -1,0 +1,11 @@
+.TextContainer{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 80px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.TextContainer p{
+    font-weight: bold;
+}

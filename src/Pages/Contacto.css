@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url('../imagenes/huesitos.png');
+  }
+  
+
+.contacto-div{
+    width: 90%;
+    margin-top: 200px;
+    padding: 60px;
+    border-radius: 10px;
+}
+
+
+.contacto-div p{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: bold;
+}

@@ -1,0 +1,12 @@
+.div-donaciones{
+    padding: 30px;
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    margin-bottom: 70px;
+    border-radius: 20px;
+}
+
+.div-donaciones p{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: bold;
+}
