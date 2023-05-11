@@ -38,10 +38,7 @@ function Footer() {
                         <p>sandovaldev21@gmail.com</p>
                     </div>
                     <div className="col-xs-12 pt-4">
-                        <p className="text-white text-center">Copyright - All right reserved &copy; 2023</p>
-                        <p className="text-white text-center">Powered by   <img src="./img/LTS.png" alt=""/> 
-                        <a className="text-white text-center" href="#">  Tech Source America</a>
-                        </p>
+                        <p className="text-white text-center">PetServicesCR - All right reserved &copy; 2023</p>
                     </div>
                 </div>
             </div>

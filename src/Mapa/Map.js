@@ -89,7 +89,12 @@ function Map() {
 
         <div className='Select'>
         <p>
-          <span>*Recuerda tener activada tu ubicación para mostrar los resultados.*</span>
+          <h3>¿Como funciona?</h3>
+          <span>1- Activa tu ubicación para mostrar los resultados.</span>
+          <br/>
+          <span>2- Selecciona el servicio que deseas buscar.</span>
+          <br/>
+          <span>3- Presiona cualquier de los marcadores rojos para ver información del negocio.</span>
           <br/>
           <br/>
           Los servicios cercanos de nuestro mapa son:
